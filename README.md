@@ -8,7 +8,7 @@ Most of the contribution graph is private production work across **14 repositori
 
 - three Spring Boot microservices on Cloud Run
 - 12+ Python Cloud Functions in a Pub/Sub event mesh
-- change data capture data pipeline to a warehouse (BigQuery)
+- change data capture data pipeline to a BigQuery warehouse
 - a React web app and a native SwiftUI iOS app (live on the App Store)
 - Terraform infrastructure, CI/CD, and schema-migration pipelines for Firestore and BigQuery
 - internal Claude Code skills and plugins, including a guardrails plugin for AI coding agents
